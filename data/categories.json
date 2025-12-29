@@ -1,0 +1,22 @@
+{
+  "categories": [
+    { "name": "Arrays & Hashing", "difficulty": 3 },
+    { "name": "Two Pointers", "difficulty": 5 },
+    { "name": "Sliding Window", "difficulty": 6 },
+    { "name": "Stack", "difficulty": 5 },
+    { "name": "Binary Search", "difficulty": 7 },
+    { "name": "Linked List", "difficulty": 6 },
+    { "name": "Trees", "difficulty": 8 },
+    { "name": "Heap / Priority Queue", "difficulty": 9 },
+    { "name": "Backtracking", "difficulty": 12 },
+    { "name": "Tries", "difficulty": 10 },
+    { "name": "Graphs", "difficulty": 13 },
+    { "name": "Advanced Graphs", "difficulty": 16 },
+    { "name": "1-D Dynamic Programming", "difficulty": 14 },
+    { "name": "2-D Dynamic Programming", "difficulty": 17 },
+    { "name": "Greedy", "difficulty": 11 },
+    { "name": "Intervals", "difficulty": 8 },
+    { "name": "Math & Geometry", "difficulty": 10 },
+    { "name": "Bit Manipulation", "difficulty": 9 }
+  ]
+}
