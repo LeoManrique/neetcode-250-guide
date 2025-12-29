@@ -35,7 +35,7 @@ func findFile(filename string) (string, error) {
 
 // FindDataFile locates the problems JSON file
 func FindDataFile() (string, error) {
-	return findFile("neetcode_250_complete.json")
+	return findFile("exercises.json")
 }
 
 // FindCategoriesFile locates the categories JSON file

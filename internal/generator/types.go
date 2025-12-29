@@ -2,12 +2,13 @@ package generator
 
 // Problem represents a single coding problem
 type Problem struct {
-	Name        string `json:"name"`
-	Difficulty  string `json:"difficulty"`
-	Category    string `json:"category"`
-	NeetcodeURL string `json:"neetcode_url"`
-	LeetcodeURL string `json:"leetcode_url"`
-	Slug        string `json:"slug"`
+	Name           string `json:"name"`
+	Difficulty     string `json:"difficulty"`
+	Category       string `json:"category"`
+	NeetcodeURL    string `json:"neetcode_url"`
+	LeetcodeURL    string `json:"leetcode_url"`
+	Slug           string `json:"slug"`
+	LeetCodeNumber int    `json:"leetcode_number"`
 }
 
 // ProblemsData represents the JSON file structure

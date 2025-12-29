@@ -198,13 +198,63 @@ func getDifficultyPreferences(day int) [][]string {
 }
 
 func findUnusedProblem(category string, difficultyOrder []string, categoryProblems CategoryProblems, usedProblems map[string]bool) *Problem {
+	// Collect unused problems from preferred difficulties
+	var candidates []*Problem
 	for _, difficulty := range difficultyOrder {
 		for i := range categoryProblems[category][difficulty] {
 			problem := &categoryProblems[category][difficulty][i]
 			if !usedProblems[problem.Name] {
-				return problem
+				candidates = append(candidates, problem)
 			}
 		}
+		// Stop at first difficulty that has candidates
+		if len(candidates) > 0 {
+			break
+		}
 	}
-	return nil
+
+	if len(candidates) == 0 {
+		return nil
+	}
+
+	// Single candidate - return directly
+	if len(candidates) == 1 {
+		return candidates[0]
+	}
+
+	// Weighted random selection favoring lower LeetCode numbers
+	return selectByLeetCodeWeight(candidates)
+}
+
+func selectByLeetCodeWeight(candidates []*Problem) *Problem {
+	// Find max LeetCode number for normalization
+	maxNum := 0
+	for _, p := range candidates {
+		if p.LeetCodeNumber > maxNum {
+			maxNum = p.LeetCodeNumber
+		}
+	}
+
+	// Calculate weights: lower numbers get higher weights
+	weights := make([]float64, len(candidates))
+	totalWeight := 0.0
+	for i, p := range candidates {
+		// Invert and normalize, then square for stronger preference
+		normalized := float64(maxNum-p.LeetCodeNumber+1) / float64(maxNum)
+		weight := normalized * normalized
+		weights[i] = weight
+		totalWeight += weight
+	}
+
+	// Weighted random selection
+	r := rand.Float64() * totalWeight
+	cumulative := 0.0
+	for i, w := range weights {
+		cumulative += w
+		if r <= cumulative {
+			return candidates[i]
+		}
+	}
+
+	return candidates[len(candidates)-1]
 }
