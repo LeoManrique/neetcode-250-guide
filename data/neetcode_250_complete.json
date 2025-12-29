@@ -6,7 +6,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/concatenation-of-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/concatenation-of-array/",
-      "slug": "concatenation-of-array"
+      "slug": "concatenation-of-array",
+      "leetcode_number": 1929
     },
     {
       "name": "Contains Duplicate",
@@ -14,7 +15,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/duplicate-integer?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/contains-duplicate/",
-      "slug": "duplicate-integer"
+      "slug": "duplicate-integer",
+      "leetcode_number": 217
     },
     {
       "name": "Valid Anagram",
@@ -22,7 +24,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/is-anagram?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-anagram/",
-      "slug": "is-anagram"
+      "slug": "is-anagram",
+      "leetcode_number": 242
     },
     {
       "name": "Two Sum",
@@ -30,7 +33,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/two-integer-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/two-sum/",
-      "slug": "two-integer-sum"
+      "slug": "two-integer-sum",
+      "leetcode_number": 1
     },
     {
       "name": "Longest Common Prefix",
@@ -38,7 +42,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/longest-common-prefix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-common-prefix/",
-      "slug": "longest-common-prefix"
+      "slug": "longest-common-prefix",
+      "leetcode_number": 14
     },
     {
       "name": "Group Anagrams",
@@ -46,7 +51,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/anagram-groups?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/group-anagrams/",
-      "slug": "anagram-groups"
+      "slug": "anagram-groups",
+      "leetcode_number": 49
     },
     {
       "name": "Remove Element",
@@ -54,7 +60,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/remove-element?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/remove-element/",
-      "slug": "remove-element"
+      "slug": "remove-element",
+      "leetcode_number": 27
     },
     {
       "name": "Majority Element",
@@ -62,7 +69,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/majority-element?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/majority-element/",
-      "slug": "majority-element"
+      "slug": "majority-element",
+      "leetcode_number": 169
     },
     {
       "name": "Design HashSet",
@@ -70,7 +78,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/design-hashset?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/design-hashset/",
-      "slug": "design-hashset"
+      "slug": "design-hashset",
+      "leetcode_number": 705
     },
     {
       "name": "Design HashMap",
@@ -78,7 +87,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/design-hashmap?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/design-hashmap/",
-      "slug": "design-hashmap"
+      "slug": "design-hashmap",
+      "leetcode_number": 706
     },
     {
       "name": "Sort an Array",
@@ -86,7 +96,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/sort-an-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sort-an-array/",
-      "slug": "sort-an-array"
+      "slug": "sort-an-array",
+      "leetcode_number": 912
     },
     {
       "name": "Sort Colors",
@@ -94,7 +105,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/sort-colors?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sort-colors/",
-      "slug": "sort-colors"
+      "slug": "sort-colors",
+      "leetcode_number": 75
     },
     {
       "name": "Top K Frequent Elements",
@@ -102,7 +114,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/top-k-elements-in-list?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/top-k-frequent-elements/",
-      "slug": "top-k-elements-in-list"
+      "slug": "top-k-elements-in-list",
+      "leetcode_number": 347
     },
     {
       "name": "Encode and Decode Strings",
@@ -110,7 +123,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/string-encode-and-decode?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/encode-and-decode-strings/",
-      "slug": "string-encode-and-decode"
+      "slug": "string-encode-and-decode",
+      "leetcode_number": 271
     },
     {
       "name": "Range Sum Query 2D Immutable",
@@ -118,7 +132,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/range-sum-query-2d-immutable?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/range-sum-query-2d-immutable/",
-      "slug": "range-sum-query-2d-immutable"
+      "slug": "range-sum-query-2d-immutable",
+      "leetcode_number": 304
     },
     {
       "name": "Product of Array Except Self",
@@ -126,7 +141,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/products-of-array-discluding-self?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/",
-      "slug": "products-of-array-discluding-self"
+      "slug": "products-of-array-discluding-self",
+      "leetcode_number": 238
     },
     {
       "name": "Valid Sudoku",
@@ -134,7 +150,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/valid-sudoku?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-sudoku/",
-      "slug": "valid-sudoku"
+      "slug": "valid-sudoku",
+      "leetcode_number": 36
     },
     {
       "name": "Longest Consecutive Sequence",
@@ -142,7 +159,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/longest-consecutive-sequence?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
-      "slug": "longest-consecutive-sequence"
+      "slug": "longest-consecutive-sequence",
+      "leetcode_number": 128
     },
     {
       "name": "Best Time to Buy And Sell Stock II",
@@ -150,7 +168,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
-      "slug": "best-time-to-buy-and-sell-stock-ii"
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "leetcode_number": 122
     },
     {
       "name": "Majority Element II",
@@ -158,7 +177,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/majority-element-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/majority-element-ii",
-      "slug": "majority-element-ii"
+      "slug": "majority-element-ii",
+      "leetcode_number": 229
     },
     {
       "name": "Subarray Sum Equals K",
@@ -166,7 +186,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/subarray-sum-equals-k?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
-      "slug": "subarray-sum-equals-k"
+      "slug": "subarray-sum-equals-k",
+      "leetcode_number": 560
     },
     {
       "name": "First Missing Positive",
@@ -174,7 +195,8 @@
       "category": "Arrays & Hashing",
       "neetcode_url": "/problems/first-missing-positive?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/first-missing-positive/",
-      "slug": "first-missing-positive"
+      "slug": "first-missing-positive",
+      "leetcode_number": 41
     },
     {
       "name": "Reverse String",
@@ -182,7 +204,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/reverse-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-string/",
-      "slug": "reverse-string"
+      "slug": "reverse-string",
+      "leetcode_number": 344
     },
     {
       "name": "Valid Palindrome",
@@ -190,7 +213,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/is-palindrome?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
-      "slug": "is-palindrome"
+      "slug": "is-palindrome",
+      "leetcode_number": 125
     },
     {
       "name": "Valid Palindrome II",
@@ -198,7 +222,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/valid-palindrome-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-palindrome-ii/",
-      "slug": "valid-palindrome-ii"
+      "slug": "valid-palindrome-ii",
+      "leetcode_number": 680
     },
     {
       "name": "Merge Strings Alternately",
@@ -206,7 +231,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/merge-strings-alternately?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-strings-alternately/",
-      "slug": "merge-strings-alternately"
+      "slug": "merge-strings-alternately",
+      "leetcode_number": 1768
     },
     {
       "name": "Merge Sorted Array",
@@ -214,7 +240,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/merge-sorted-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-sorted-array/",
-      "slug": "merge-sorted-array"
+      "slug": "merge-sorted-array",
+      "leetcode_number": 88
     },
     {
       "name": "Remove Duplicates From Sorted Array",
@@ -222,7 +249,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/remove-duplicates-from-sorted-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "slug": "remove-duplicates-from-sorted-array"
+      "slug": "remove-duplicates-from-sorted-array",
+      "leetcode_number": 26
     },
     {
       "name": "Two Sum II Input Array Is Sorted",
@@ -230,7 +258,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/two-integer-sum-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-      "slug": "two-integer-sum-ii"
+      "slug": "two-integer-sum-ii",
+      "leetcode_number": 167
     },
     {
       "name": "3Sum",
@@ -238,7 +267,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/three-integer-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/3sum/",
-      "slug": "three-integer-sum"
+      "slug": "three-integer-sum",
+      "leetcode_number": 15
     },
     {
       "name": "4Sum",
@@ -246,7 +276,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/4sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/4sum/",
-      "slug": "4sum"
+      "slug": "4sum",
+      "leetcode_number": 18
     },
     {
       "name": "Rotate Array",
@@ -254,7 +285,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/rotate-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/rotate-array/",
-      "slug": "rotate-array"
+      "slug": "rotate-array",
+      "leetcode_number": 189
     },
     {
       "name": "Container With Most Water",
@@ -262,7 +294,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/max-water-container?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/container-with-most-water/",
-      "slug": "max-water-container"
+      "slug": "max-water-container",
+      "leetcode_number": 11
     },
     {
       "name": "Boats to Save People",
@@ -270,7 +303,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/boats-to-save-people?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/boats-to-save-people/",
-      "slug": "boats-to-save-people"
+      "slug": "boats-to-save-people",
+      "leetcode_number": 881
     },
     {
       "name": "Trapping Rain Water",
@@ -278,7 +312,8 @@
       "category": "Two Pointers",
       "neetcode_url": "/problems/trapping-rain-water?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
-      "slug": "trapping-rain-water"
+      "slug": "trapping-rain-water",
+      "leetcode_number": 42
     },
     {
       "name": "Contains Duplicate II",
@@ -286,7 +321,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/contains-duplicate-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/contains-duplicate-ii/",
-      "slug": "contains-duplicate-ii"
+      "slug": "contains-duplicate-ii",
+      "leetcode_number": 219
     },
     {
       "name": "Best Time to Buy And Sell Stock",
@@ -294,7 +330,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/buy-and-sell-crypto?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-      "slug": "buy-and-sell-crypto"
+      "slug": "buy-and-sell-crypto",
+      "leetcode_number": 121
     },
     {
       "name": "Longest Substring Without Repeating Characters",
@@ -302,7 +339,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/longest-substring-without-duplicates?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-      "slug": "longest-substring-without-duplicates"
+      "slug": "longest-substring-without-duplicates",
+      "leetcode_number": 3
     },
     {
       "name": "Longest Repeating Character Replacement",
@@ -310,7 +348,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/longest-repeating-substring-with-replacement?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
-      "slug": "longest-repeating-substring-with-replacement"
+      "slug": "longest-repeating-substring-with-replacement",
+      "leetcode_number": 424
     },
     {
       "name": "Permutation In String",
@@ -318,7 +357,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/permutation-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/permutation-in-string/",
-      "slug": "permutation-string"
+      "slug": "permutation-string",
+      "leetcode_number": 567
     },
     {
       "name": "Minimum Size Subarray Sum",
@@ -326,7 +366,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/minimum-size-subarray-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
-      "slug": "minimum-size-subarray-sum"
+      "slug": "minimum-size-subarray-sum",
+      "leetcode_number": 209
     },
     {
       "name": "Find K Closest Elements",
@@ -334,7 +375,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/find-k-closest-elements?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-k-closest-elements/",
-      "slug": "find-k-closest-elements"
+      "slug": "find-k-closest-elements",
+      "leetcode_number": 658
     },
     {
       "name": "Minimum Window Substring",
@@ -342,7 +384,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/minimum-window-with-characters?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
-      "slug": "minimum-window-with-characters"
+      "slug": "minimum-window-with-characters",
+      "leetcode_number": 76
     },
     {
       "name": "Sliding Window Maximum",
@@ -350,7 +393,8 @@
       "category": "Sliding Window",
       "neetcode_url": "/problems/sliding-window-maximum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
-      "slug": "sliding-window-maximum"
+      "slug": "sliding-window-maximum",
+      "leetcode_number": 239
     },
     {
       "name": "Baseball Game",
@@ -358,7 +402,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/baseball-game?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/baseball-game/",
-      "slug": "baseball-game"
+      "slug": "baseball-game",
+      "leetcode_number": 682
     },
     {
       "name": "Valid Parentheses",
@@ -366,7 +411,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/validate-parentheses?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-parentheses/",
-      "slug": "validate-parentheses"
+      "slug": "validate-parentheses",
+      "leetcode_number": 20
     },
     {
       "name": "Implement Stack Using Queues",
@@ -374,7 +420,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/implement-stack-using-queues?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/implement-stack-using-queues/",
-      "slug": "implement-stack-using-queues"
+      "slug": "implement-stack-using-queues",
+      "leetcode_number": 225
     },
     {
       "name": "Implement Queue using Stacks",
@@ -382,7 +429,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/implement-queue-using-stacks?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/implement-queue-using-stacks",
-      "slug": "implement-queue-using-stacks"
+      "slug": "implement-queue-using-stacks",
+      "leetcode_number": 232
     },
     {
       "name": "Min Stack",
@@ -390,7 +438,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/minimum-stack?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/min-stack/",
-      "slug": "minimum-stack"
+      "slug": "minimum-stack",
+      "leetcode_number": 155
     },
     {
       "name": "Evaluate Reverse Polish Notation",
@@ -398,7 +447,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/evaluate-reverse-polish-notation?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
-      "slug": "evaluate-reverse-polish-notation"
+      "slug": "evaluate-reverse-polish-notation",
+      "leetcode_number": 150
     },
     {
       "name": "Generate Parentheses",
@@ -406,7 +456,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/generate-parentheses?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/generate-parentheses/",
-      "slug": "generate-parentheses"
+      "slug": "generate-parentheses",
+      "leetcode_number": 22
     },
     {
       "name": "Asteroid Collision",
@@ -414,7 +465,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/asteroid-collision?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/asteroid-collision/",
-      "slug": "asteroid-collision"
+      "slug": "asteroid-collision",
+      "leetcode_number": 735
     },
     {
       "name": "Daily Temperatures",
@@ -422,7 +474,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/daily-temperatures?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/daily-temperatures/",
-      "slug": "daily-temperatures"
+      "slug": "daily-temperatures",
+      "leetcode_number": 739
     },
     {
       "name": "Online Stock Span",
@@ -430,7 +483,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/online-stock-span?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/online-stock-span/",
-      "slug": "online-stock-span"
+      "slug": "online-stock-span",
+      "leetcode_number": 901
     },
     {
       "name": "Car Fleet",
@@ -438,7 +492,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/car-fleet?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/car-fleet/",
-      "slug": "car-fleet"
+      "slug": "car-fleet",
+      "leetcode_number": 853
     },
     {
       "name": "Simplify Path",
@@ -446,7 +501,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/simplify-path?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/simplify-path/",
-      "slug": "simplify-path"
+      "slug": "simplify-path",
+      "leetcode_number": 71
     },
     {
       "name": "Decode String",
@@ -454,7 +510,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/decode-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/decode-string/",
-      "slug": "decode-string"
+      "slug": "decode-string",
+      "leetcode_number": 394
     },
     {
       "name": "Maximum Frequency Stack",
@@ -462,7 +519,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/maximum-frequency-stack?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/maximum-frequency-stack/",
-      "slug": "maximum-frequency-stack"
+      "slug": "maximum-frequency-stack",
+      "leetcode_number": 895
     },
     {
       "name": "Largest Rectangle In Histogram",
@@ -470,7 +528,8 @@
       "category": "Stack",
       "neetcode_url": "/problems/largest-rectangle-in-histogram?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
-      "slug": "largest-rectangle-in-histogram"
+      "slug": "largest-rectangle-in-histogram",
+      "leetcode_number": 84
     },
     {
       "name": "Binary Search",
@@ -478,7 +537,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/binary-search?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-search/",
-      "slug": "binary-search"
+      "slug": "binary-search",
+      "leetcode_number": 704
     },
     {
       "name": "Search Insert Position",
@@ -486,7 +546,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/search-insert-position?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/search-insert-position/",
-      "slug": "search-insert-position"
+      "slug": "search-insert-position",
+      "leetcode_number": 35
     },
     {
       "name": "Guess Number Higher Or Lower",
@@ -494,7 +555,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/guess-number-higher-or-lower?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
-      "slug": "guess-number-higher-or-lower"
+      "slug": "guess-number-higher-or-lower",
+      "leetcode_number": 374
     },
     {
       "name": "Sqrt(x)",
@@ -502,7 +564,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/sqrtx?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sqrtx/",
-      "slug": "sqrtx"
+      "slug": "sqrtx",
+      "leetcode_number": 69
     },
     {
       "name": "Search a 2D Matrix",
@@ -510,7 +573,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/search-2d-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix/",
-      "slug": "search-2d-matrix"
+      "slug": "search-2d-matrix",
+      "leetcode_number": 74
     },
     {
       "name": "Koko Eating Bananas",
@@ -518,7 +582,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/eating-bananas?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
-      "slug": "eating-bananas"
+      "slug": "eating-bananas",
+      "leetcode_number": 875
     },
     {
       "name": "Capacity to Ship Packages Within D Days",
@@ -526,7 +591,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/capacity-to-ship-packages-within-d-days?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
-      "slug": "capacity-to-ship-packages-within-d-days"
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "leetcode_number": 1011
     },
     {
       "name": "Find Minimum In Rotated Sorted Array",
@@ -534,7 +600,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/find-minimum-in-rotated-sorted-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-      "slug": "find-minimum-in-rotated-sorted-array"
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "leetcode_number": 153
     },
     {
       "name": "Search In Rotated Sorted Array",
@@ -542,7 +609,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/find-target-in-rotated-sorted-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-      "slug": "find-target-in-rotated-sorted-array"
+      "slug": "find-target-in-rotated-sorted-array",
+      "leetcode_number": 33
     },
     {
       "name": "Search In Rotated Sorted Array II",
@@ -550,7 +618,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/search-in-rotated-sorted-array-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
-      "slug": "search-in-rotated-sorted-array-ii"
+      "slug": "search-in-rotated-sorted-array-ii",
+      "leetcode_number": 81
     },
     {
       "name": "Time Based Key Value Store",
@@ -558,7 +627,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/time-based-key-value-store?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/time-based-key-value-store/",
-      "slug": "time-based-key-value-store"
+      "slug": "time-based-key-value-store",
+      "leetcode_number": 981
     },
     {
       "name": "Split Array Largest Sum",
@@ -566,7 +636,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/split-array-largest-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum/",
-      "slug": "split-array-largest-sum"
+      "slug": "split-array-largest-sum",
+      "leetcode_number": 410
     },
     {
       "name": "Median of Two Sorted Arrays",
@@ -574,7 +645,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/median-of-two-sorted-arrays?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-      "slug": "median-of-two-sorted-arrays"
+      "slug": "median-of-two-sorted-arrays",
+      "leetcode_number": 4
     },
     {
       "name": "Find in Mountain Array",
@@ -582,7 +654,8 @@
       "category": "Binary Search",
       "neetcode_url": "/problems/find-in-mountain-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-in-mountain-array",
-      "slug": "find-in-mountain-array"
+      "slug": "find-in-mountain-array",
+      "leetcode_number": 1095
     },
     {
       "name": "Reverse Linked List",
@@ -590,7 +663,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/reverse-a-linked-list?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
-      "slug": "reverse-a-linked-list"
+      "slug": "reverse-a-linked-list",
+      "leetcode_number": 206
     },
     {
       "name": "Merge Two Sorted Lists",
@@ -598,7 +672,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/merge-two-sorted-linked-lists?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
-      "slug": "merge-two-sorted-linked-lists"
+      "slug": "merge-two-sorted-linked-lists",
+      "leetcode_number": 21
     },
     {
       "name": "Linked List Cycle",
@@ -606,7 +681,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/linked-list-cycle-detection?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/linked-list-cycle/",
-      "slug": "linked-list-cycle-detection"
+      "slug": "linked-list-cycle-detection",
+      "leetcode_number": 141
     },
     {
       "name": "Reorder List",
@@ -614,7 +690,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/reorder-linked-list?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reorder-list/",
-      "slug": "reorder-linked-list"
+      "slug": "reorder-linked-list",
+      "leetcode_number": 143
     },
     {
       "name": "Remove Nth Node From End of List",
@@ -622,7 +699,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/remove-node-from-end-of-linked-list?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-      "slug": "remove-node-from-end-of-linked-list"
+      "slug": "remove-node-from-end-of-linked-list",
+      "leetcode_number": 19
     },
     {
       "name": "Copy List With Random Pointer",
@@ -630,7 +708,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/copy-linked-list-with-random-pointer?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
-      "slug": "copy-linked-list-with-random-pointer"
+      "slug": "copy-linked-list-with-random-pointer",
+      "leetcode_number": 138
     },
     {
       "name": "Add Two Numbers",
@@ -638,7 +717,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/add-two-numbers?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
-      "slug": "add-two-numbers"
+      "slug": "add-two-numbers",
+      "leetcode_number": 2
     },
     {
       "name": "Find The Duplicate Number",
@@ -646,7 +726,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/find-duplicate-integer?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-the-duplicate-number/",
-      "slug": "find-duplicate-integer"
+      "slug": "find-duplicate-integer",
+      "leetcode_number": 287
     },
     {
       "name": "Reverse Linked List II",
@@ -654,7 +735,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/reverse-linked-list-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-linked-list-ii/",
-      "slug": "reverse-linked-list-ii"
+      "slug": "reverse-linked-list-ii",
+      "leetcode_number": 92
     },
     {
       "name": "Design Circular Queue",
@@ -662,7 +744,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/design-circular-queue?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/design-circular-queue/",
-      "slug": "design-circular-queue"
+      "slug": "design-circular-queue",
+      "leetcode_number": 622
     },
     {
       "name": "LRU Cache",
@@ -670,7 +753,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/lru-cache?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/lru-cache/",
-      "slug": "lru-cache"
+      "slug": "lru-cache",
+      "leetcode_number": 146
     },
     {
       "name": "LFU Cache",
@@ -678,7 +762,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/lfu-cache?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/lfu-cache/",
-      "slug": "lfu-cache"
+      "slug": "lfu-cache",
+      "leetcode_number": 460
     },
     {
       "name": "Merge K Sorted Lists",
@@ -686,7 +771,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/merge-k-sorted-linked-lists?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
-      "slug": "merge-k-sorted-linked-lists"
+      "slug": "merge-k-sorted-linked-lists",
+      "leetcode_number": 23
     },
     {
       "name": "Reverse Nodes In K Group",
@@ -694,7 +780,8 @@
       "category": "Linked List",
       "neetcode_url": "/problems/reverse-nodes-in-k-group?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
-      "slug": "reverse-nodes-in-k-group"
+      "slug": "reverse-nodes-in-k-group",
+      "leetcode_number": 25
     },
     {
       "name": "Binary Tree Inorder Traversal",
@@ -702,7 +789,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-inorder-traversal?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
-      "slug": "binary-tree-inorder-traversal"
+      "slug": "binary-tree-inorder-traversal",
+      "leetcode_number": 94
     },
     {
       "name": "Binary Tree Preorder Traversal",
@@ -710,7 +798,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-preorder-traversal?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
-      "slug": "binary-tree-preorder-traversal"
+      "slug": "binary-tree-preorder-traversal",
+      "leetcode_number": 144
     },
     {
       "name": "Binary Tree Postorder Traversal",
@@ -718,7 +807,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-postorder-traversal?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
-      "slug": "binary-tree-postorder-traversal"
+      "slug": "binary-tree-postorder-traversal",
+      "leetcode_number": 145
     },
     {
       "name": "Invert Binary Tree",
@@ -726,7 +816,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/invert-a-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/invert-binary-tree/",
-      "slug": "invert-a-binary-tree"
+      "slug": "invert-a-binary-tree",
+      "leetcode_number": 226
     },
     {
       "name": "Maximum Depth of Binary Tree",
@@ -734,7 +825,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/depth-of-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
-      "slug": "depth-of-binary-tree"
+      "slug": "depth-of-binary-tree",
+      "leetcode_number": 104
     },
     {
       "name": "Diameter of Binary Tree",
@@ -742,7 +834,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-diameter?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
-      "slug": "binary-tree-diameter"
+      "slug": "binary-tree-diameter",
+      "leetcode_number": 543
     },
     {
       "name": "Balanced Binary Tree",
@@ -750,7 +843,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/balanced-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/balanced-binary-tree/",
-      "slug": "balanced-binary-tree"
+      "slug": "balanced-binary-tree",
+      "leetcode_number": 110
     },
     {
       "name": "Same Tree",
@@ -758,7 +852,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/same-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/same-tree/",
-      "slug": "same-binary-tree"
+      "slug": "same-binary-tree",
+      "leetcode_number": 100
     },
     {
       "name": "Subtree of Another Tree",
@@ -766,7 +861,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/subtree-of-a-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/subtree-of-another-tree/",
-      "slug": "subtree-of-a-binary-tree"
+      "slug": "subtree-of-a-binary-tree",
+      "leetcode_number": 572
     },
     {
       "name": "Lowest Common Ancestor of a Binary Search Tree",
@@ -774,7 +870,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
-      "slug": "lowest-common-ancestor-in-binary-search-tree"
+      "slug": "lowest-common-ancestor-in-binary-search-tree",
+      "leetcode_number": 235
     },
     {
       "name": "Insert into a Binary Search Tree",
@@ -782,7 +879,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/insert-into-a-binary-search-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
-      "slug": "insert-into-a-binary-search-tree"
+      "slug": "insert-into-a-binary-search-tree",
+      "leetcode_number": 701
     },
     {
       "name": "Delete Node in a BST",
@@ -790,7 +888,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/delete-node-in-a-bst?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-bst/",
-      "slug": "delete-node-in-a-bst"
+      "slug": "delete-node-in-a-bst",
+      "leetcode_number": 450
     },
     {
       "name": "Binary Tree Level Order Traversal",
@@ -798,7 +897,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/level-order-traversal-of-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
-      "slug": "level-order-traversal-of-binary-tree"
+      "slug": "level-order-traversal-of-binary-tree",
+      "leetcode_number": 102
     },
     {
       "name": "Binary Tree Right Side View",
@@ -806,7 +906,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-right-side-view?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
-      "slug": "binary-tree-right-side-view"
+      "slug": "binary-tree-right-side-view",
+      "leetcode_number": 199
     },
     {
       "name": "Construct Quad Tree",
@@ -814,7 +915,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/construct-quad-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/construct-quad-tree/",
-      "slug": "construct-quad-tree"
+      "slug": "construct-quad-tree",
+      "leetcode_number": 427
     },
     {
       "name": "Count Good Nodes In Binary Tree",
@@ -822,7 +924,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/count-good-nodes-in-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
-      "slug": "count-good-nodes-in-binary-tree"
+      "slug": "count-good-nodes-in-binary-tree",
+      "leetcode_number": 1448
     },
     {
       "name": "Validate Binary Search Tree",
@@ -830,7 +933,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/valid-binary-search-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree/",
-      "slug": "valid-binary-search-tree"
+      "slug": "valid-binary-search-tree",
+      "leetcode_number": 98
     },
     {
       "name": "Kth Smallest Element In a Bst",
@@ -838,7 +942,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/kth-smallest-integer-in-bst?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-      "slug": "kth-smallest-integer-in-bst"
+      "slug": "kth-smallest-integer-in-bst",
+      "leetcode_number": 230
     },
     {
       "name": "Construct Binary Tree From Preorder And Inorder Traversal",
@@ -846,7 +951,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-from-preorder-and-inorder-traversal?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-      "slug": "binary-tree-from-preorder-and-inorder-traversal"
+      "slug": "binary-tree-from-preorder-and-inorder-traversal",
+      "leetcode_number": 105
     },
     {
       "name": "House Robber III",
@@ -854,7 +960,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/house-robber-iii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/house-robber-iii/",
-      "slug": "house-robber-iii"
+      "slug": "house-robber-iii",
+      "leetcode_number": 337
     },
     {
       "name": "Delete Leaves With a Given Value",
@@ -862,7 +969,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/delete-leaves-with-a-given-value?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/delete-leaves-with-a-given-value",
-      "slug": "delete-leaves-with-a-given-value"
+      "slug": "delete-leaves-with-a-given-value",
+      "leetcode_number": 1325
     },
     {
       "name": "Binary Tree Maximum Path Sum",
@@ -870,7 +978,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/binary-tree-maximum-path-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-      "slug": "binary-tree-maximum-path-sum"
+      "slug": "binary-tree-maximum-path-sum",
+      "leetcode_number": 124
     },
     {
       "name": "Serialize And Deserialize Binary Tree",
@@ -878,7 +987,8 @@
       "category": "Trees",
       "neetcode_url": "/problems/serialize-and-deserialize-binary-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
-      "slug": "serialize-and-deserialize-binary-tree"
+      "slug": "serialize-and-deserialize-binary-tree",
+      "leetcode_number": 297
     },
     {
       "name": "Kth Largest Element In a Stream",
@@ -886,7 +996,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/kth-largest-integer-in-a-stream?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
-      "slug": "kth-largest-integer-in-a-stream"
+      "slug": "kth-largest-integer-in-a-stream",
+      "leetcode_number": 703
     },
     {
       "name": "Last Stone Weight",
@@ -894,7 +1005,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/last-stone-weight?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/last-stone-weight/",
-      "slug": "last-stone-weight"
+      "slug": "last-stone-weight",
+      "leetcode_number": 1046
     },
     {
       "name": "K Closest Points to Origin",
@@ -902,7 +1014,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/k-closest-points-to-origin?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/k-closest-points-to-origin/",
-      "slug": "k-closest-points-to-origin"
+      "slug": "k-closest-points-to-origin",
+      "leetcode_number": 973
     },
     {
       "name": "Kth Largest Element In An Array",
@@ -910,7 +1023,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/kth-largest-element-in-an-array?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-      "slug": "kth-largest-element-in-an-array"
+      "slug": "kth-largest-element-in-an-array",
+      "leetcode_number": 215
     },
     {
       "name": "Task Scheduler",
@@ -918,7 +1032,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/task-scheduling?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/task-scheduler/",
-      "slug": "task-scheduling"
+      "slug": "task-scheduling",
+      "leetcode_number": 621
     },
     {
       "name": "Design Twitter",
@@ -926,7 +1041,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/design-twitter-feed?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/design-twitter/",
-      "slug": "design-twitter-feed"
+      "slug": "design-twitter-feed",
+      "leetcode_number": 355
     },
     {
       "name": "Single Threaded CPU",
@@ -934,7 +1050,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/single-threaded-cpu?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/single-threaded-cpu/",
-      "slug": "single-threaded-cpu"
+      "slug": "single-threaded-cpu",
+      "leetcode_number": 1834
     },
     {
       "name": "Reorganize String",
@@ -942,7 +1059,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/reorganize-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reorganize-string/",
-      "slug": "reorganize-string"
+      "slug": "reorganize-string",
+      "leetcode_number": 767
     },
     {
       "name": "Longest Happy String",
@@ -950,7 +1068,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/longest-happy-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-happy-string/",
-      "slug": "longest-happy-string"
+      "slug": "longest-happy-string",
+      "leetcode_number": 1405
     },
     {
       "name": "Car Pooling",
@@ -958,7 +1077,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/car-pooling?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/car-pooling/",
-      "slug": "car-pooling"
+      "slug": "car-pooling",
+      "leetcode_number": 1094
     },
     {
       "name": "Find Median From Data Stream",
@@ -966,7 +1086,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/find-median-in-a-data-stream?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream/",
-      "slug": "find-median-in-a-data-stream"
+      "slug": "find-median-in-a-data-stream",
+      "leetcode_number": 295
     },
     {
       "name": "IPO",
@@ -974,7 +1095,8 @@
       "category": "Heap / Priority Queue",
       "neetcode_url": "/problems/ipo?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/ipo/",
-      "slug": "ipo"
+      "slug": "ipo",
+      "leetcode_number": 502
     },
     {
       "name": "Sum of All Subsets XOR Total",
@@ -982,7 +1104,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/sum-of-all-subset-xor-totals?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals",
-      "slug": "sum-of-all-subset-xor-totals"
+      "slug": "sum-of-all-subset-xor-totals",
+      "leetcode_number": 1863
     },
     {
       "name": "Subsets",
@@ -990,7 +1113,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/subsets?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/subsets/",
-      "slug": "subsets"
+      "slug": "subsets",
+      "leetcode_number": 78
     },
     {
       "name": "Combination Sum",
@@ -998,7 +1122,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/combination-target-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/combination-sum/",
-      "slug": "combination-target-sum"
+      "slug": "combination-target-sum",
+      "leetcode_number": 39
     },
     {
       "name": "Combination Sum II",
@@ -1006,7 +1131,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/combination-target-sum-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/combination-sum-ii/",
-      "slug": "combination-target-sum-ii"
+      "slug": "combination-target-sum-ii",
+      "leetcode_number": 40
     },
     {
       "name": "Combinations",
@@ -1014,7 +1140,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/combinations?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/combinations/",
-      "slug": "combinations"
+      "slug": "combinations",
+      "leetcode_number": 77
     },
     {
       "name": "Permutations",
@@ -1022,7 +1149,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/permutations?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/permutations/",
-      "slug": "permutations"
+      "slug": "permutations",
+      "leetcode_number": 46
     },
     {
       "name": "Subsets II",
@@ -1030,7 +1158,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/subsets-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/subsets-ii/",
-      "slug": "subsets-ii"
+      "slug": "subsets-ii",
+      "leetcode_number": 90
     },
     {
       "name": "Permutations II",
@@ -1038,7 +1167,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/permutations-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/permutations-ii/",
-      "slug": "permutations-ii"
+      "slug": "permutations-ii",
+      "leetcode_number": 47
     },
     {
       "name": "Word Search",
@@ -1046,7 +1176,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/search-for-word?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/word-search/",
-      "slug": "search-for-word"
+      "slug": "search-for-word",
+      "leetcode_number": 79
     },
     {
       "name": "Palindrome Partitioning",
@@ -1054,7 +1185,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/palindrome-partitioning?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning/",
-      "slug": "palindrome-partitioning"
+      "slug": "palindrome-partitioning",
+      "leetcode_number": 131
     },
     {
       "name": "Letter Combinations of a Phone Number",
@@ -1062,7 +1194,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/combinations-of-a-phone-number?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
-      "slug": "combinations-of-a-phone-number"
+      "slug": "combinations-of-a-phone-number",
+      "leetcode_number": 17
     },
     {
       "name": "Matchsticks to Square",
@@ -1070,7 +1203,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/matchsticks-to-square?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/matchsticks-to-square/",
-      "slug": "matchsticks-to-square"
+      "slug": "matchsticks-to-square",
+      "leetcode_number": 473
     },
     {
       "name": "Partition to K Equal Sum Subsets",
@@ -1078,7 +1212,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/partition-to-k-equal-sum-subsets?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/",
-      "slug": "partition-to-k-equal-sum-subsets"
+      "slug": "partition-to-k-equal-sum-subsets",
+      "leetcode_number": 698
     },
     {
       "name": "N Queens",
@@ -1086,7 +1221,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/n-queens?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/n-queens/",
-      "slug": "n-queens"
+      "slug": "n-queens",
+      "leetcode_number": 51
     },
     {
       "name": "N Queens II",
@@ -1094,7 +1230,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/n-queens-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/n-queens-ii/",
-      "slug": "n-queens-ii"
+      "slug": "n-queens-ii",
+      "leetcode_number": 52
     },
     {
       "name": "Word Break II",
@@ -1102,7 +1239,8 @@
       "category": "Backtracking",
       "neetcode_url": "/problems/word-break-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/word-break-ii",
-      "slug": "word-break-ii"
+      "slug": "word-break-ii",
+      "leetcode_number": 140
     },
     {
       "name": "Implement Trie Prefix Tree",
@@ -1110,7 +1248,8 @@
       "category": "Tries",
       "neetcode_url": "/problems/implement-prefix-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
-      "slug": "implement-prefix-tree"
+      "slug": "implement-prefix-tree",
+      "leetcode_number": 208
     },
     {
       "name": "Design Add And Search Words Data Structure",
@@ -1118,7 +1257,8 @@
       "category": "Tries",
       "neetcode_url": "/problems/design-word-search-data-structure?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
-      "slug": "design-word-search-data-structure"
+      "slug": "design-word-search-data-structure",
+      "leetcode_number": 211
     },
     {
       "name": "Extra Characters in a String",
@@ -1126,7 +1266,8 @@
       "category": "Tries",
       "neetcode_url": "/problems/extra-characters-in-a-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/extra-characters-in-a-string/",
-      "slug": "extra-characters-in-a-string"
+      "slug": "extra-characters-in-a-string",
+      "leetcode_number": 2707
     },
     {
       "name": "Word Search II",
@@ -1134,7 +1275,8 @@
       "category": "Tries",
       "neetcode_url": "/problems/search-for-word-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/word-search-ii/",
-      "slug": "search-for-word-ii"
+      "slug": "search-for-word-ii",
+      "leetcode_number": 212
     },
     {
       "name": "Island Perimeter",
@@ -1142,7 +1284,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/island-perimeter?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/island-perimeter/",
-      "slug": "island-perimeter"
+      "slug": "island-perimeter",
+      "leetcode_number": 463
     },
     {
       "name": "Verifying An Alien Dictionary",
@@ -1150,7 +1293,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/verifying-an-alien-dictionary?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
-      "slug": "verifying-an-alien-dictionary"
+      "slug": "verifying-an-alien-dictionary",
+      "leetcode_number": 953
     },
     {
       "name": "Find the Town Judge",
@@ -1158,7 +1302,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/find-the-town-judge?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-the-town-judge",
-      "slug": "find-the-town-judge"
+      "slug": "find-the-town-judge",
+      "leetcode_number": 997
     },
     {
       "name": "Number of Islands",
@@ -1166,7 +1311,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/count-number-of-islands?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/number-of-islands/",
-      "slug": "count-number-of-islands"
+      "slug": "count-number-of-islands",
+      "leetcode_number": 200
     },
     {
       "name": "Max Area of Island",
@@ -1174,7 +1320,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/max-area-of-island?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/max-area-of-island/",
-      "slug": "max-area-of-island"
+      "slug": "max-area-of-island",
+      "leetcode_number": 695
     },
     {
       "name": "Clone Graph",
@@ -1182,7 +1329,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/clone-graph?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/clone-graph/",
-      "slug": "clone-graph"
+      "slug": "clone-graph",
+      "leetcode_number": 133
     },
     {
       "name": "Walls And Gates",
@@ -1190,7 +1338,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/islands-and-treasure?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/walls-and-gates/",
-      "slug": "islands-and-treasure"
+      "slug": "islands-and-treasure",
+      "leetcode_number": 286
     },
     {
       "name": "Rotting Oranges",
@@ -1198,7 +1347,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/rotting-fruit?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/rotting-oranges/",
-      "slug": "rotting-fruit"
+      "slug": "rotting-fruit",
+      "leetcode_number": 994
     },
     {
       "name": "Pacific Atlantic Water Flow",
@@ -1206,7 +1356,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/pacific-atlantic-water-flow?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
-      "slug": "pacific-atlantic-water-flow"
+      "slug": "pacific-atlantic-water-flow",
+      "leetcode_number": 417
     },
     {
       "name": "Surrounded Regions",
@@ -1214,7 +1365,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/surrounded-regions?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/surrounded-regions/",
-      "slug": "surrounded-regions"
+      "slug": "surrounded-regions",
+      "leetcode_number": 130
     },
     {
       "name": "Open The Lock",
@@ -1222,7 +1374,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/open-the-lock?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/open-the-lock/",
-      "slug": "open-the-lock"
+      "slug": "open-the-lock",
+      "leetcode_number": 752
     },
     {
       "name": "Course Schedule",
@@ -1230,7 +1383,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/course-schedule?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/course-schedule/",
-      "slug": "course-schedule"
+      "slug": "course-schedule",
+      "leetcode_number": 207
     },
     {
       "name": "Course Schedule II",
@@ -1238,7 +1392,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/course-schedule-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/course-schedule-ii/",
-      "slug": "course-schedule-ii"
+      "slug": "course-schedule-ii",
+      "leetcode_number": 210
     },
     {
       "name": "Graph Valid Tree",
@@ -1246,7 +1401,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/valid-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/graph-valid-tree/",
-      "slug": "valid-tree"
+      "slug": "valid-tree",
+      "leetcode_number": 261
     },
     {
       "name": "Course Schedule IV",
@@ -1254,7 +1410,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/course-schedule-iv?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/course-schedule-iv/",
-      "slug": "course-schedule-iv"
+      "slug": "course-schedule-iv",
+      "leetcode_number": 1462
     },
     {
       "name": "Number of Connected Components In An Undirected Graph",
@@ -1262,7 +1419,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/count-connected-components?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
-      "slug": "count-connected-components"
+      "slug": "count-connected-components",
+      "leetcode_number": 323
     },
     {
       "name": "Redundant Connection",
@@ -1270,7 +1428,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/redundant-connection?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/redundant-connection/",
-      "slug": "redundant-connection"
+      "slug": "redundant-connection",
+      "leetcode_number": 684
     },
     {
       "name": "Accounts Merge",
@@ -1278,7 +1437,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/accounts-merge?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/accounts-merge/",
-      "slug": "accounts-merge"
+      "slug": "accounts-merge",
+      "leetcode_number": 721
     },
     {
       "name": "Evaluate Division",
@@ -1286,7 +1446,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/evaluate-division?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/evaluate-division/",
-      "slug": "evaluate-division"
+      "slug": "evaluate-division",
+      "leetcode_number": 399
     },
     {
       "name": "Minimum Height Trees",
@@ -1294,7 +1455,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/minimum-height-trees?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-height-trees",
-      "slug": "minimum-height-trees"
+      "slug": "minimum-height-trees",
+      "leetcode_number": 310
     },
     {
       "name": "Word Ladder",
@@ -1302,7 +1464,8 @@
       "category": "Graphs",
       "neetcode_url": "/problems/word-ladder?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/word-ladder/",
-      "slug": "word-ladder"
+      "slug": "word-ladder",
+      "leetcode_number": 127
     },
     {
       "name": "Path with Minimum Effort",
@@ -1310,7 +1473,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/path-with-minimum-effort?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/path-with-minimum-effort/",
-      "slug": "path-with-minimum-effort"
+      "slug": "path-with-minimum-effort",
+      "leetcode_number": 1631
     },
     {
       "name": "Network Delay Time",
@@ -1318,7 +1482,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/network-delay-time?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/network-delay-time/",
-      "slug": "network-delay-time"
+      "slug": "network-delay-time",
+      "leetcode_number": 743
     },
     {
       "name": "Reconstruct Itinerary",
@@ -1326,7 +1491,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/reconstruct-flight-path?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reconstruct-itinerary/",
-      "slug": "reconstruct-flight-path"
+      "slug": "reconstruct-flight-path",
+      "leetcode_number": 332
     },
     {
       "name": "Min Cost to Connect All Points",
@@ -1334,7 +1500,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/min-cost-to-connect-points?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
-      "slug": "min-cost-to-connect-points"
+      "slug": "min-cost-to-connect-points",
+      "leetcode_number": 1584
     },
     {
       "name": "Swim In Rising Water",
@@ -1342,7 +1509,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/swim-in-rising-water?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/swim-in-rising-water/",
-      "slug": "swim-in-rising-water"
+      "slug": "swim-in-rising-water",
+      "leetcode_number": 778
     },
     {
       "name": "Alien Dictionary",
@@ -1350,7 +1518,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/foreign-dictionary?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/alien-dictionary/",
-      "slug": "foreign-dictionary"
+      "slug": "foreign-dictionary",
+      "leetcode_number": 269
     },
     {
       "name": "Cheapest Flights Within K Stops",
@@ -1358,7 +1527,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/cheapest-flight-path?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
-      "slug": "cheapest-flight-path"
+      "slug": "cheapest-flight-path",
+      "leetcode_number": 787
     },
     {
       "name": "Find Critical and Pseudo Critical Edges in Minimum Spanning Tree",
@@ -1366,7 +1536,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/",
-      "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
+      "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+      "leetcode_number": 1489
     },
     {
       "name": "Build a Matrix With Conditions",
@@ -1374,7 +1545,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/build-a-matrix-with-conditions?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/build-a-matrix-with-conditions",
-      "slug": "build-a-matrix-with-conditions"
+      "slug": "build-a-matrix-with-conditions",
+      "leetcode_number": 2392
     },
     {
       "name": "Greatest Common Divisor Traversal",
@@ -1382,7 +1554,8 @@
       "category": "Advanced Graphs",
       "neetcode_url": "/problems/greatest-common-divisor-traversal?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/greatest-common-divisor-traversal",
-      "slug": "greatest-common-divisor-traversal"
+      "slug": "greatest-common-divisor-traversal",
+      "leetcode_number": 2709
     },
     {
       "name": "Climbing Stairs",
@@ -1390,7 +1563,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/climbing-stairs?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/climbing-stairs/",
-      "slug": "climbing-stairs"
+      "slug": "climbing-stairs",
+      "leetcode_number": 70
     },
     {
       "name": "Min Cost Climbing Stairs",
@@ -1398,7 +1572,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/min-cost-climbing-stairs?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
-      "slug": "min-cost-climbing-stairs"
+      "slug": "min-cost-climbing-stairs",
+      "leetcode_number": 746
     },
     {
       "name": "N-th Tribonacci Number",
@@ -1406,7 +1581,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/n-th-tribonacci-number?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/n-th-tribonacci-number/",
-      "slug": "n-th-tribonacci-number"
+      "slug": "n-th-tribonacci-number",
+      "leetcode_number": 1137
     },
     {
       "name": "House Robber",
@@ -1414,7 +1590,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/house-robber?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/house-robber/",
-      "slug": "house-robber"
+      "slug": "house-robber",
+      "leetcode_number": 198
     },
     {
       "name": "House Robber II",
@@ -1422,7 +1599,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/house-robber-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/house-robber-ii/",
-      "slug": "house-robber-ii"
+      "slug": "house-robber-ii",
+      "leetcode_number": 213
     },
     {
       "name": "Longest Palindromic Substring",
@@ -1430,7 +1608,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/longest-palindromic-substring?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/",
-      "slug": "longest-palindromic-substring"
+      "slug": "longest-palindromic-substring",
+      "leetcode_number": 5
     },
     {
       "name": "Palindromic Substrings",
@@ -1438,7 +1617,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/palindromic-substrings?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/palindromic-substrings/",
-      "slug": "palindromic-substrings"
+      "slug": "palindromic-substrings",
+      "leetcode_number": 647
     },
     {
       "name": "Decode Ways",
@@ -1446,7 +1626,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/decode-ways?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/decode-ways/",
-      "slug": "decode-ways"
+      "slug": "decode-ways",
+      "leetcode_number": 91
     },
     {
       "name": "Coin Change",
@@ -1454,7 +1635,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/coin-change?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/coin-change/",
-      "slug": "coin-change"
+      "slug": "coin-change",
+      "leetcode_number": 322
     },
     {
       "name": "Maximum Product Subarray",
@@ -1462,7 +1644,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/maximum-product-subarray?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/maximum-product-subarray/",
-      "slug": "maximum-product-subarray"
+      "slug": "maximum-product-subarray",
+      "leetcode_number": 152
     },
     {
       "name": "Word Break",
@@ -1470,7 +1653,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/word-break?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/word-break/",
-      "slug": "word-break"
+      "slug": "word-break",
+      "leetcode_number": 139
     },
     {
       "name": "Longest Increasing Subsequence",
@@ -1478,7 +1662,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/longest-increasing-subsequence?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
-      "slug": "longest-increasing-subsequence"
+      "slug": "longest-increasing-subsequence",
+      "leetcode_number": 300
     },
     {
       "name": "Partition Equal Subset Sum",
@@ -1486,7 +1671,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/partition-equal-subset-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
-      "slug": "partition-equal-subset-sum"
+      "slug": "partition-equal-subset-sum",
+      "leetcode_number": 416
     },
     {
       "name": "Combination Sum IV",
@@ -1494,7 +1680,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/combination-sum-iv?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/combination-sum-iv/",
-      "slug": "combination-sum-iv"
+      "slug": "combination-sum-iv",
+      "leetcode_number": 377
     },
     {
       "name": "Perfect Squares",
@@ -1502,7 +1689,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/perfect-squares?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/perfect-squares/",
-      "slug": "perfect-squares"
+      "slug": "perfect-squares",
+      "leetcode_number": 279
     },
     {
       "name": "Integer Break",
@@ -1510,7 +1698,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/integer-break?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/integer-break/",
-      "slug": "integer-break"
+      "slug": "integer-break",
+      "leetcode_number": 343
     },
     {
       "name": "Stone Game III",
@@ -1518,7 +1707,8 @@
       "category": "1-D Dynamic Programming",
       "neetcode_url": "/problems/stone-game-iii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/stone-game-iii/",
-      "slug": "stone-game-iii"
+      "slug": "stone-game-iii",
+      "leetcode_number": 1406
     },
     {
       "name": "Unique Paths",
@@ -1526,7 +1716,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/count-paths?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/unique-paths/",
-      "slug": "count-paths"
+      "slug": "count-paths",
+      "leetcode_number": 62
     },
     {
       "name": "Unique Paths II",
@@ -1534,7 +1725,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/unique-paths-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/unique-paths-ii/",
-      "slug": "unique-paths-ii"
+      "slug": "unique-paths-ii",
+      "leetcode_number": 63
     },
     {
       "name": "Minimum Path Sum",
@@ -1542,7 +1734,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/minimum-path-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-path-sum/",
-      "slug": "minimum-path-sum"
+      "slug": "minimum-path-sum",
+      "leetcode_number": 64
     },
     {
       "name": "Longest Common Subsequence",
@@ -1550,7 +1743,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/longest-common-subsequence?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-common-subsequence/",
-      "slug": "longest-common-subsequence"
+      "slug": "longest-common-subsequence",
+      "leetcode_number": 1143
     },
     {
       "name": "Last Stone Weight II",
@@ -1558,7 +1752,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/last-stone-weight-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/last-stone-weight-ii/",
-      "slug": "last-stone-weight-ii"
+      "slug": "last-stone-weight-ii",
+      "leetcode_number": 1049
     },
     {
       "name": "Best Time to Buy And Sell Stock With Cooldown",
@@ -1566,7 +1761,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/buy-and-sell-crypto-with-cooldown?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
-      "slug": "buy-and-sell-crypto-with-cooldown"
+      "slug": "buy-and-sell-crypto-with-cooldown",
+      "leetcode_number": 309
     },
     {
       "name": "Coin Change II",
@@ -1574,7 +1770,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/coin-change-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/coin-change-ii/",
-      "slug": "coin-change-ii"
+      "slug": "coin-change-ii",
+      "leetcode_number": 518
     },
     {
       "name": "Target Sum",
@@ -1582,7 +1779,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/target-sum?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/target-sum/",
-      "slug": "target-sum"
+      "slug": "target-sum",
+      "leetcode_number": 494
     },
     {
       "name": "Interleaving String",
@@ -1590,7 +1788,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/interleaving-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/interleaving-string/",
-      "slug": "interleaving-string"
+      "slug": "interleaving-string",
+      "leetcode_number": 97
     },
     {
       "name": "Stone Game",
@@ -1598,7 +1797,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/stone-game?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/stone-game/",
-      "slug": "stone-game"
+      "slug": "stone-game",
+      "leetcode_number": 877
     },
     {
       "name": "Stone Game II",
@@ -1606,7 +1806,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/stone-game-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/stone-game-ii/",
-      "slug": "stone-game-ii"
+      "slug": "stone-game-ii",
+      "leetcode_number": 1140
     },
     {
       "name": "Longest Increasing Path In a Matrix",
@@ -1614,7 +1815,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/longest-increasing-path-in-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/",
-      "slug": "longest-increasing-path-in-matrix"
+      "slug": "longest-increasing-path-in-matrix",
+      "leetcode_number": 329
     },
     {
       "name": "Distinct Subsequences",
@@ -1622,7 +1824,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/count-subsequences?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/distinct-subsequences/",
-      "slug": "count-subsequences"
+      "slug": "count-subsequences",
+      "leetcode_number": 115
     },
     {
       "name": "Edit Distance",
@@ -1630,7 +1833,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/edit-distance?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/edit-distance/",
-      "slug": "edit-distance"
+      "slug": "edit-distance",
+      "leetcode_number": 72
     },
     {
       "name": "Burst Balloons",
@@ -1638,7 +1842,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/burst-balloons?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/burst-balloons/",
-      "slug": "burst-balloons"
+      "slug": "burst-balloons",
+      "leetcode_number": 312
     },
     {
       "name": "Regular Expression Matching",
@@ -1646,7 +1851,8 @@
       "category": "2-D Dynamic Programming",
       "neetcode_url": "/problems/regular-expression-matching?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/regular-expression-matching/",
-      "slug": "regular-expression-matching"
+      "slug": "regular-expression-matching",
+      "leetcode_number": 10
     },
     {
       "name": "Lemonade Change",
@@ -1654,7 +1860,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/lemonade-change?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/lemonade-change/",
-      "slug": "lemonade-change"
+      "slug": "lemonade-change",
+      "leetcode_number": 860
     },
     {
       "name": "Maximum Subarray",
@@ -1662,7 +1869,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/maximum-subarray?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/maximum-subarray/",
-      "slug": "maximum-subarray"
+      "slug": "maximum-subarray",
+      "leetcode_number": 53
     },
     {
       "name": "Maximum Sum Circular Subarray",
@@ -1670,7 +1878,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/maximum-sum-circular-subarray?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
-      "slug": "maximum-sum-circular-subarray"
+      "slug": "maximum-sum-circular-subarray",
+      "leetcode_number": 918
     },
     {
       "name": "Longest Turbulent Subarray",
@@ -1678,7 +1887,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/longest-turbulent-subarray?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/longest-turbulent-subarray/",
-      "slug": "longest-turbulent-subarray"
+      "slug": "longest-turbulent-subarray",
+      "leetcode_number": 978
     },
     {
       "name": "Jump Game",
@@ -1686,7 +1896,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/jump-game?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/jump-game/",
-      "slug": "jump-game"
+      "slug": "jump-game",
+      "leetcode_number": 55
     },
     {
       "name": "Jump Game II",
@@ -1694,7 +1905,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/jump-game-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/jump-game-ii/",
-      "slug": "jump-game-ii"
+      "slug": "jump-game-ii",
+      "leetcode_number": 45
     },
     {
       "name": "Jump Game VII",
@@ -1702,7 +1914,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/jump-game-vii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/jump-game-vii/",
-      "slug": "jump-game-vii"
+      "slug": "jump-game-vii",
+      "leetcode_number": 1871
     },
     {
       "name": "Gas Station",
@@ -1710,7 +1923,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/gas-station?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/gas-station/",
-      "slug": "gas-station"
+      "slug": "gas-station",
+      "leetcode_number": 134
     },
     {
       "name": "Hand of Straights",
@@ -1718,7 +1932,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/hand-of-straights?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/hand-of-straights/",
-      "slug": "hand-of-straights"
+      "slug": "hand-of-straights",
+      "leetcode_number": 846
     },
     {
       "name": "Dota2 Senate",
@@ -1726,7 +1941,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/dota2-senate?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/dota2-senate/",
-      "slug": "dota2-senate"
+      "slug": "dota2-senate",
+      "leetcode_number": 649
     },
     {
       "name": "Merge Triplets to Form Target Triplet",
@@ -1734,7 +1950,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/merge-triplets-to-form-target?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/",
-      "slug": "merge-triplets-to-form-target"
+      "slug": "merge-triplets-to-form-target",
+      "leetcode_number": 1899
     },
     {
       "name": "Partition Labels",
@@ -1742,7 +1959,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/partition-labels?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/partition-labels/",
-      "slug": "partition-labels"
+      "slug": "partition-labels",
+      "leetcode_number": 763
     },
     {
       "name": "Valid Parenthesis String",
@@ -1750,7 +1968,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/valid-parenthesis-string?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/valid-parenthesis-string/",
-      "slug": "valid-parenthesis-string"
+      "slug": "valid-parenthesis-string",
+      "leetcode_number": 678
     },
     {
       "name": "Candy",
@@ -1758,7 +1977,8 @@
       "category": "Greedy",
       "neetcode_url": "/problems/candy?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/candy/",
-      "slug": "candy"
+      "slug": "candy",
+      "leetcode_number": 135
     },
     {
       "name": "Insert Interval",
@@ -1766,7 +1986,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/insert-new-interval?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/insert-interval/",
-      "slug": "insert-new-interval"
+      "slug": "insert-new-interval",
+      "leetcode_number": 57
     },
     {
       "name": "Merge Intervals",
@@ -1774,7 +1995,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/merge-intervals?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/merge-intervals/",
-      "slug": "merge-intervals"
+      "slug": "merge-intervals",
+      "leetcode_number": 56
     },
     {
       "name": "Non Overlapping Intervals",
@@ -1782,7 +2004,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/non-overlapping-intervals?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/non-overlapping-intervals/",
-      "slug": "non-overlapping-intervals"
+      "slug": "non-overlapping-intervals",
+      "leetcode_number": 435
     },
     {
       "name": "Meeting Rooms",
@@ -1790,7 +2013,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/meeting-schedule?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/meeting-rooms/",
-      "slug": "meeting-schedule"
+      "slug": "meeting-schedule",
+      "leetcode_number": 252
     },
     {
       "name": "Meeting Rooms II",
@@ -1798,7 +2022,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/meeting-schedule-ii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/meeting-rooms-ii/",
-      "slug": "meeting-schedule-ii"
+      "slug": "meeting-schedule-ii",
+      "leetcode_number": 253
     },
     {
       "name": "Meeting Rooms III",
@@ -1806,7 +2031,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/meeting-rooms-iii?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/meeting-rooms-iii",
-      "slug": "meeting-rooms-iii"
+      "slug": "meeting-rooms-iii",
+      "leetcode_number": 2402
     },
     {
       "name": "Minimum Interval to Include Each Query",
@@ -1814,7 +2040,8 @@
       "category": "Intervals",
       "neetcode_url": "/problems/minimum-interval-including-query?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-interval-to-include-each-query/",
-      "slug": "minimum-interval-including-query"
+      "slug": "minimum-interval-including-query",
+      "leetcode_number": 1851
     },
     {
       "name": "Excel Sheet Column Title",
@@ -1822,7 +2049,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/excel-sheet-column-title?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/excel-sheet-column-title/",
-      "slug": "excel-sheet-column-title"
+      "slug": "excel-sheet-column-title",
+      "leetcode_number": 168
     },
     {
       "name": "Greatest Common Divisor of Strings",
@@ -1830,7 +2058,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/greatest-common-divisor-of-strings?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
-      "slug": "greatest-common-divisor-of-strings"
+      "slug": "greatest-common-divisor-of-strings",
+      "leetcode_number": 1071
     },
     {
       "name": "Insert Greatest Common Divisors in Linked List",
@@ -1838,7 +2067,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/insert-greatest-common-divisors-in-linked-list?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
-      "slug": "insert-greatest-common-divisors-in-linked-list"
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "leetcode_number": 2807
     },
     {
       "name": "Transpose Matrix",
@@ -1846,7 +2076,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/transpose-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/transpose-matrix",
-      "slug": "transpose-matrix"
+      "slug": "transpose-matrix",
+      "leetcode_number": 867
     },
     {
       "name": "Rotate Image",
@@ -1854,7 +2085,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/rotate-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/rotate-image/",
-      "slug": "rotate-matrix"
+      "slug": "rotate-matrix",
+      "leetcode_number": 48
     },
     {
       "name": "Spiral Matrix",
@@ -1862,7 +2094,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/spiral-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/spiral-matrix/",
-      "slug": "spiral-matrix"
+      "slug": "spiral-matrix",
+      "leetcode_number": 54
     },
     {
       "name": "Set Matrix Zeroes",
@@ -1870,7 +2103,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/set-zeroes-in-matrix?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/set-matrix-zeroes/",
-      "slug": "set-zeroes-in-matrix"
+      "slug": "set-zeroes-in-matrix",
+      "leetcode_number": 73
     },
     {
       "name": "Happy Number",
@@ -1878,7 +2112,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/non-cyclical-number?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/happy-number/",
-      "slug": "non-cyclical-number"
+      "slug": "non-cyclical-number",
+      "leetcode_number": 202
     },
     {
       "name": "Plus One",
@@ -1886,7 +2121,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/plus-one?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/plus-one/",
-      "slug": "plus-one"
+      "slug": "plus-one",
+      "leetcode_number": 66
     },
     {
       "name": "Roman to Integer",
@@ -1894,7 +2130,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/roman-to-integer?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/roman-to-integer/",
-      "slug": "roman-to-integer"
+      "slug": "roman-to-integer",
+      "leetcode_number": 13
     },
     {
       "name": "Pow(x, n)",
@@ -1902,7 +2139,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/pow-x-n?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/powx-n/",
-      "slug": "pow-x-n"
+      "slug": "pow-x-n",
+      "leetcode_number": 50
     },
     {
       "name": "Multiply Strings",
@@ -1910,7 +2148,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/multiply-strings?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/multiply-strings/",
-      "slug": "multiply-strings"
+      "slug": "multiply-strings",
+      "leetcode_number": 43
     },
     {
       "name": "Detect Squares",
@@ -1918,7 +2157,8 @@
       "category": "Math & Geometry",
       "neetcode_url": "/problems/count-squares?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/detect-squares/",
-      "slug": "count-squares"
+      "slug": "count-squares",
+      "leetcode_number": 2013
     },
     {
       "name": "Single Number",
@@ -1926,7 +2166,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/single-number?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/single-number/",
-      "slug": "single-number"
+      "slug": "single-number",
+      "leetcode_number": 136
     },
     {
       "name": "Number of 1 Bits",
@@ -1934,7 +2175,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/number-of-one-bits?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/number-of-1-bits/",
-      "slug": "number-of-one-bits"
+      "slug": "number-of-one-bits",
+      "leetcode_number": 191
     },
     {
       "name": "Counting Bits",
@@ -1942,7 +2184,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/counting-bits?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/counting-bits/",
-      "slug": "counting-bits"
+      "slug": "counting-bits",
+      "leetcode_number": 338
     },
     {
       "name": "Add Binary",
@@ -1950,7 +2193,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/add-binary?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/add-binary/",
-      "slug": "add-binary"
+      "slug": "add-binary",
+      "leetcode_number": 67
     },
     {
       "name": "Reverse Bits",
@@ -1958,7 +2202,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/reverse-bits?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-bits/",
-      "slug": "reverse-bits"
+      "slug": "reverse-bits",
+      "leetcode_number": 190
     },
     {
       "name": "Missing Number",
@@ -1966,7 +2211,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/missing-number?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/missing-number/",
-      "slug": "missing-number"
+      "slug": "missing-number",
+      "leetcode_number": 268
     },
     {
       "name": "Sum of Two Integers",
@@ -1974,7 +2220,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/sum-of-two-integers?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/sum-of-two-integers/",
-      "slug": "sum-of-two-integers"
+      "slug": "sum-of-two-integers",
+      "leetcode_number": 371
     },
     {
       "name": "Reverse Integer",
@@ -1982,7 +2229,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/reverse-integer?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/reverse-integer/",
-      "slug": "reverse-integer"
+      "slug": "reverse-integer",
+      "leetcode_number": 7
     },
     {
       "name": "Bitwise AND of Numbers Range",
@@ -1990,7 +2238,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/bitwise-and-of-numbers-range?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
-      "slug": "bitwise-and-of-numbers-range"
+      "slug": "bitwise-and-of-numbers-range",
+      "leetcode_number": 201
     },
     {
       "name": "Minimum Array End",
@@ -1998,7 +2247,8 @@
       "category": "Bit Manipulation",
       "neetcode_url": "/problems/minimum-array-end?list=neetcode250",
       "leetcode_url": "https://leetcode.com/problems/minimum-array-end/",
-      "slug": "minimum-array-end"
+      "slug": "minimum-array-end",
+      "leetcode_number": 3133
     }
   ],
   "total_count": 250,
