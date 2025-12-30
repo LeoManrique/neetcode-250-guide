@@ -197,20 +197,3 @@ func findLowestUnused(problems []Problem, usedProblems map[string]bool) *Problem
 
 	return candidates[0]
 }
-
-// Legacy functions kept for compatibility but simplified
-
-func findAvailableCategories(categoryProblems CategoryProblems, usedProblems map[string]bool) []string {
-	var available []string
-	for _, category := range CategoryOrder() {
-		for _, difficulty := range difficulties {
-			for _, problem := range categoryProblems[category][difficulty] {
-				if !usedProblems[problem.Name] {
-					available = append(available, category)
-					break
-				}
-			}
-		}
-	}
-	return available
-}

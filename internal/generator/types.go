@@ -27,9 +27,6 @@ type DayPlan struct {
 // CategoryProblems organizes problems by difficulty within a category
 type CategoryProblems map[string]map[string][]Problem
 
-// CategoryProgress tracks used problems per difficulty in each category
-type CategoryProgress map[string]map[string]int
-
 // Category represents a problem category with its difficulty rating
 type Category struct {
 	Name       string `json:"name"`
@@ -51,14 +48,4 @@ func CategoryOrder() []string {
 		names[i] = cat.Name
 	}
 	return names
-}
-
-// GetCategoryDifficulty returns the difficulty rating for a category
-func GetCategoryDifficulty(name string) int {
-	for _, cat := range Categories {
-		if cat.Name == name {
-			return cat.Difficulty
-		}
-	}
-	return 10 // default middle difficulty
 }
